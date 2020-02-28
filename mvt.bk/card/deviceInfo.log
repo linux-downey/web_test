@@ -1,0 +1,818 @@
+Jul 16 13:59:56 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Jul 16 13:59:56 InvRaildpt local0.warn Train: Hot Standby S1 192.168.7.115 : 60797 - connected.
+Jul 16 15:31:29 InvRaildpt local0.warn Train: Hot Standby S1 192.168.7.115 : 60797 - disconnected.
+Jul 16 15:31:57 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Jul 16 15:31:58 InvRaildpt local0.warn Train: Hot Standby S1 192.168.7.115 : 34461 - connected.
+Jul 16 15:33:12 InvRaildpt local0.warn Train: Hot Standby S1 192.168.7.115 : 34461 - disconnected.
+Jul 16 15:35:20 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Jul 16 15:35:21 InvRaildpt local0.warn Train: Hot Standby S1 192.168.7.115 : 35551 - connected.
+Jul 16 15:55:12 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Jul 16 15:55:13 InvRaildpt local0.warn Train: Hot Standby S1 192.168.7.115 : 37035 - connected.
+Jul 16 15:55:15 InvRaildpt local0.warn Train: RF power on.
+Jul 16 15:55:16 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Jul 16 15:58:58 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Jul 16 15:58:58 InvRaildpt local0.warn Train: Hot Standby S1 192.168.7.115 : 46174 - connected.
+Jul 16 15:59:48 InvRaildpt local0.warn Train: Hot Standby S1 192.168.7.115 : 46174 - disconnected.
+Jul 16 16:03:39 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Jul 16 16:03:40 InvRaildpt local0.warn Train: Hot Standby S1 192.168.7.115 : 48053 - connected.
+Jul 16 16:03:44 InvRaildpt local0.warn Train: RF power on.
+Jul 16 16:03:45 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Jul 16 16:12:07 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Jul 16 16:12:07 InvRaildpt local0.warn Train: Hot Standby S1 192.168.7.115 : 50109 - connected.
+Jul 16 16:12:21 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Jul 16 16:12:22 InvRaildpt local0.warn Train: Hot Standby S1 192.168.7.115 : 54828 - connected.
+Jul 16 16:26:20 InvRaildpt local0.warn Train: RF power on.
+Jul 16 16:26:21 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Jul 16 16:27:03 InvRaildpt local0.warn Train: Hot Standby S1 192.168.7.115 : 54828 - disconnected.
+Jul 16 16:27:32 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Jul 16 16:27:32 InvRaildpt local0.warn Train: Hot Standby S1 192.168.7.115 : 55569 - connected.
+Jul 16 16:27:48 InvRaildpt local0.warn Train: RF power on.
+Jul 16 16:27:49 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Jul 16 16:28:38 InvRaildpt local0.warn Train: RF power off.
+Jul 16 16:29:08 InvRaildpt local0.warn Train: RF power on.
+Jul 16 16:29:09 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Jul 16 16:29:58 InvRaildpt local0.warn Train: RF power off.
+Jul 16 17:34:23 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Jul 16 17:34:26 InvRaildpt local0.warn Train: Hot Standby S1 192.168.7.115 : 55633 - connected.
+Jul 16 17:36:53 InvRaildpt local0.warn Train: RF power on.
+Jul 16 17:36:54 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Jul 16 17:37:23 InvRaildpt local0.warn Train: RF power off.
+Jul 16 17:37:25 InvRaildpt local0.warn Train: Generate cps data.
+Jul 17 10:46:26 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Jul 17 10:51:42 InvRaildpt local0.warn Train: Hot Standby S1 192.168.7.115 : 55661 - connected.
+Jul 17 10:52:16 InvRaildpt local0.warn Train: Client Manager 127.0.0.1 : 46086 - connected.
+Jul 17 10:52:16 InvRaildpt local0.warn Train: Client 127.0.0.1 : 46086 - disconnected.
+Jul 17 11:03:53 InvRaildpt local0.warn Train: Hot Standby S1 192.168.7.115 : 55661 - disconnected.
+Jul 17 11:12:09 InvRaildpt local0.warn Train: Hot Standby S1 192.168.7.115 : 55682 - connected.
+Jul 17 11:30:52 InvRaildpt local0.warn Train: Hot Standby S1 192.168.7.115 : 55682 - disconnected.
+Jul 17 13:08:12 InvRaildpt local0.warn Train: Hot Standby S1 192.168.7.115 : 55800 - connected.
+Jul 17 16:44:12 InvRaildpt local0.warn Train: Hot Standby S1 192.168.7.115 : 55800 - disconnected.
+Jul 18 08:37:56 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Jul 19 08:35:11 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Jul 22 08:49:11 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Jul 22 09:01:54 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Jul 22 15:57:49 InvRaildpt local0.warn Train: Client Manager 192.168.7.73 : 5763 - connected.
+Jul 22 16:03:42 InvRaildpt local0.warn Train: Client 192.168.7.73 : 5763 - disconnected.
+Jul 24 08:42:34 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Jul 25 08:37:06 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Jul 25 14:38:57 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Jul 29 13:25:23 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Aug  9 10:23:07 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Aug  9 10:23:07 InvRaildpt local0.warn Train: AlgoRt Version 0.0.34
+Aug  9 10:23:09 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Aug 13 08:33:17 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Aug 13 08:33:17 InvRaildpt local0.warn Train: AlgoRt Version 0.0.34
+Aug 13 08:33:21 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Aug 13 08:35:03 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Aug 13 08:35:04 InvRaildpt local0.warn Train: AlgoRt Version 0.0.34
+Aug 13 08:35:07 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Aug 13 09:20:18 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Aug 13 09:20:18 InvRaildpt local0.warn Train: AlgoRt Version 0.0.34
+Aug 13 09:20:21 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Aug 13 10:44:07 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Aug 13 10:44:07 InvRaildpt local0.warn Train: AlgoRt Version 0.0.34
+Aug 13 10:44:10 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Aug 13 14:54:48 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Aug 13 14:54:48 InvRaildpt local0.warn Train: AlgoRt Version 0.0.33
+Aug 13 15:13:07 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Aug 13 15:13:08 InvRaildpt local0.warn Train: AlgoRt Version 0.0.33
+Aug 13 15:14:03 InvRaildpt local0.warn Train: Client Manager 127.0.0.1 : 59050 - connected.
+Aug 13 15:14:03 InvRaildpt local0.warn Train: Client 127.0.0.1 : 59050 - disconnected.
+Aug 13 15:14:55 InvRaildpt local0.warn Train: RF power on.
+Aug 13 15:14:56 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Aug 13 15:15:56 InvRaildpt local0.warn Train: RF power off.
+Aug 13 15:17:23 InvRaildpt local0.warn Train: AEI_S1_App 0.2.40 Started 
+Aug 13 15:17:24 InvRaildpt local0.warn Train: AlgoRt Version 0.0.34
+Aug 13 15:17:27 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Aug 13 15:20:07 InvRaildpt local0.warn Train: AEI_S1_App 0.2.40 Started 
+Aug 13 15:20:07 InvRaildpt local0.warn Train: AlgoRt Version 0.0.34
+Aug 13 15:20:09 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Aug 13 15:20:36 InvRaildpt local0.warn Train: AEI_S1_App 0.2.40 Started 
+Aug 13 15:20:36 InvRaildpt local0.warn Train: AlgoRt Version 0.0.34
+Aug 13 15:20:38 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Aug 13 15:21:39 InvRaildpt local0.warn Train: AEI_S1_App 0.2.40 Started 
+Aug 13 15:21:39 InvRaildpt local0.warn Train: AlgoRt Version 0.0.34
+Aug 13 15:21:43 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Aug 13 15:24:34 InvRaildpt local0.warn Train: AEI_S1_App 0.2.40 Started 
+Aug 13 15:24:34 InvRaildpt local0.warn Train: AlgoRt Version 0.0.34
+Aug 13 15:24:38 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Aug 13 15:25:56 InvRaildpt local0.warn Train: RF power on.
+Aug 13 15:25:57 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Aug 13 15:27:37 InvRaildpt local0.warn Train: RF power off.
+Aug 13 15:27:38 InvRaildpt local0.warn Train: Generate cps data.
+Aug 13 15:28:09 InvRaildpt local0.warn Train: Client Manager 127.0.0.1 : 49566 - connected.
+Aug 13 15:28:11 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Aug 13 15:28:11 InvRaildpt local0.warn Train: Client 127.0.0.1 : 49566 - disconnected.
+Aug 13 15:43:06 InvRaildpt local0.warn Train: Client Manager 127.0.0.1 : 49866 - connected.
+Aug 13 15:43:08 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Aug 13 15:43:08 InvRaildpt local0.warn Train: Client 127.0.0.1 : 49866 - disconnected.
+Aug 13 17:18:50 InvRaildpt local0.warn Train: AEI_S1_App 0.2.40 Started 
+Aug 13 17:18:50 InvRaildpt local0.warn Train: AlgoRt Version 0.0.34
+Aug 13 17:18:53 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Aug 13 17:19:30 InvRaildpt local0.warn Train: RF power on.
+Aug 13 17:19:31 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Aug 13 17:20:49 InvRaildpt local0.warn Train: RF power off.
+Aug 13 17:20:50 InvRaildpt local0.warn Train: Generate cps data.
+Aug 13 17:38:00 InvRaildpt local0.warn Train: AEI_S1_App 0.2.40 Started 
+Aug 13 17:38:00 InvRaildpt local0.warn Train: AlgoRt Version 0.0.34
+Aug 13 17:38:03 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Aug 14 10:56:22 InvRaildpt local0.warn Train: AEI_S1_App 0.2.40 Started 
+Aug 14 10:56:22 InvRaildpt local0.warn Train: AlgoRt Version 0.0.34
+Aug 14 10:56:26 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Aug 14 10:57:14 InvRaildpt local0.warn Train: Client Manager 127.0.0.1 : 54587 - connected.
+Aug 14 10:57:16 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Aug 14 10:57:16 InvRaildpt local0.warn Train: Client 127.0.0.1 : 54587 - disconnected.
+Aug 14 13:15:38 InvRaildpt local0.warn Train: AEI_S1_App 0.2.40 Started 
+Aug 14 13:15:38 InvRaildpt local0.warn Train: AlgoRt Version 0.0.34
+Aug 14 13:15:42 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Aug 14 13:17:20 InvRaildpt local0.warn Train: Client Manager 127.0.0.1 : 58880 - connected.
+Aug 14 13:17:22 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Aug 14 13:17:22 InvRaildpt local0.warn Train: Client 127.0.0.1 : 58880 - disconnected.
+Aug 14 13:17:46 InvRaildpt local0.warn Train: Client Manager 127.0.0.1 : 58889 - connected.
+Aug 14 13:17:48 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Aug 14 13:17:48 InvRaildpt local0.warn Train: Client 127.0.0.1 : 58889 - disconnected.
+Aug 14 13:18:06 InvRaildpt local0.warn Train: Client Manager 127.0.0.1 : 58897 - connected.
+Aug 14 13:18:08 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Aug 14 13:18:08 InvRaildpt local0.warn Train: Client 127.0.0.1 : 58897 - disconnected.
+Aug 14 13:52:05 InvRaildpt local0.warn Train: AEI_S1_App 0.2.40 Started 
+Aug 14 13:52:05 InvRaildpt local0.warn Train: AlgoRt Version 0.0.34
+Aug 14 13:52:08 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Aug 14 13:53:55 InvRaildpt local0.warn Train: Client Manager 127.0.0.1 : 50346 - connected.
+Aug 14 13:53:57 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Aug 14 13:53:57 InvRaildpt local0.warn Train: Client 127.0.0.1 : 50346 - disconnected.
+Aug 14 17:01:42 InvRaildpt local0.warn Train: AEI_S1_App 0.2.40 Started 
+Aug 14 17:01:42 InvRaildpt local0.warn Train: AlgoRt Version 0.0.34
+Aug 14 17:01:46 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Aug 14 17:02:52 InvRaildpt local0.warn Train: AEI_S1_App 0.2.40 Started 
+Aug 14 17:02:53 InvRaildpt local0.warn Train: AlgoRt Version 0.0.34
+Aug 14 17:02:55 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Aug 14 17:04:30 InvRaildpt local0.warn Train: AEI_S1_App 0.2.40 Started 
+Aug 14 17:04:30 InvRaildpt local0.warn Train: AlgoRt Version 0.0.34
+Aug 14 17:04:34 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Aug 19 09:05:14 InvRaildpt local0.warn Train: AEI_S1_App 0.2.40 Started 
+Aug 19 09:05:14 InvRaildpt local0.warn Train: AlgoRt Version 0.0.34
+Aug 19 09:05:18 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Aug 19 09:06:45 InvRaildpt local0.warn Train: AEI_S1_App 0.2.40 Started 
+Aug 19 09:06:45 InvRaildpt local0.warn Train: AlgoRt Version 0.0.34
+Aug 19 09:06:49 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep  2 15:26:16 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep  2 15:26:44 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep  4 15:44:57 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep  4 15:45:42 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:03:14 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:03:37 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:03:38 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 11:03:39 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Sep 18 11:04:04 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:04:05 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 11:04:07 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:04:08 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 11:04:10 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:04:11 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 11:04:13 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:04:14 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 11:04:16 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:04:17 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 11:04:19 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:04:20 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 11:04:22 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:04:22 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 11:04:25 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:04:28 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:04:28 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 11:04:31 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:04:31 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 11:05:18 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:05:18 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 11:05:22 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:05:23 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 11:05:24 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Sep 18 11:13:34 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF power gain 28 dBm. [255]
+Sep 18 11:13:34 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF frequency 910.1 MHz. [255]
+Sep 18 11:13:34 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set antenna mode 0. [255]
+Sep 18 11:13:34 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set aei station num 1. [255]
+Sep 18 11:13:34 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device ip 192.168.7.81. [255]
+Sep 18 11:13:34 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device netmask 255.255.255.0. [255]
+Sep 18 11:13:34 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device gateway 192.168.7.1. [255]
+Sep 18 11:13:34 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set manager ip 192.168.7.255. [255]
+Sep 18 11:13:34 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set cps ip 192.168.7.255. [255]
+Sep 18 11:16:36 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:16:36 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 11:16:40 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:16:41 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 11:16:42 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Sep 18 11:20:22 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:20:23 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 11:20:56 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:20:58 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 11:22:18 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:22:20 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 11:22:21 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Sep 18 11:22:25 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:22:27 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 11:24:01 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF power gain 28 dBm. [255]
+Sep 18 11:24:01 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF frequency 910.1 MHz. [255]
+Sep 18 11:24:01 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set antenna mode 0. [255]
+Sep 18 11:24:01 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set aei station num 1. [255]
+Sep 18 11:24:01 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device ip 192.168.7.81. [255]
+Sep 18 11:24:01 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device netmask 255.255.255.0. [255]
+Sep 18 11:24:01 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device gateway 192.168.7.1. [255]
+Sep 18 11:24:01 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set manager ip 192.168.7.255. [255]
+Sep 18 11:24:01 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set cps ip 192.168.7.255. [255]
+Sep 18 11:28:26 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:28:28 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 11:28:30 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:28:30 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 11:28:36 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:28:37 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 11:28:38 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Sep 18 11:30:32 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:30:34 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 11:30:36 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:30:36 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 11:30:42 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:30:43 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 11:30:44 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Sep 18 11:32:14 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF power gain 27 dBm. [1]
+Sep 18 11:32:14 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF frequency 910.1 MHz. [1]
+Sep 18 11:32:14 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set antenna mode 0. [1]
+Sep 18 11:32:14 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set aei station num 1. [1]
+Sep 18 11:32:14 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device ip 192.168.7.115. [1]
+Sep 18 11:32:14 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device netmask 255.255.255.0. [1]
+Sep 18 11:32:14 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device gateway 192.168.7.1. [1]
+Sep 18 11:32:14 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set manager ip 192.168.7.255. [1]
+Sep 18 11:32:14 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set cps ip 192.168.7.255. [1]
+Sep 18 11:32:35 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF power gain 27 dBm. [1]
+Sep 18 11:32:35 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF frequency 910.1 MHz. [1]
+Sep 18 11:32:35 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set antenna mode 0. [1]
+Sep 18 11:32:35 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set aei station num 1. [1]
+Sep 18 11:32:35 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device ip 192.168.7.115. [1]
+Sep 18 11:32:35 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device netmask 255.255.255.0. [1]
+Sep 18 11:32:35 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device gateway 192.168.7.1. [1]
+Sep 18 11:32:35 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set manager ip 192.168.7.255. [1]
+Sep 18 11:32:35 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set cps ip 192.168.7.255. [1]
+Sep 18 11:32:44 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF power gain 27 dBm. [1]
+Sep 18 11:32:44 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF frequency 910.1 MHz. [1]
+Sep 18 11:32:44 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set antenna mode 0. [1]
+Sep 18 11:32:44 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set aei station num 1. [1]
+Sep 18 11:32:44 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device ip 192.168.7.115. [1]
+Sep 18 11:32:44 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device netmask 255.255.255.0. [1]
+Sep 18 11:32:44 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device gateway 192.168.7.1. [1]
+Sep 18 11:32:44 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set manager ip 192.168.7.255. [1]
+Sep 18 11:32:44 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set cps ip 192.168.7.255. [1]
+Sep 18 11:33:45 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF power gain 27 dBm. [1]
+Sep 18 11:33:45 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF frequency 910.1 MHz. [1]
+Sep 18 11:33:45 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set antenna mode 0. [1]
+Sep 18 11:33:45 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set aei station num 1. [1]
+Sep 18 11:33:45 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device ip 192.168.7.23. [1]
+Sep 18 11:33:45 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device netmask 255.255.255.0. [1]
+Sep 18 11:33:45 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device gateway 192.168.7.1. [1]
+Sep 18 11:33:45 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set manager ip 192.168.7.255. [1]
+Sep 18 11:33:45 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set cps ip 192.168.7.255. [1]
+Sep 18 11:42:59 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:43:01 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 11:43:03 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 11:43:04 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 11:43:05 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Sep 18 11:45:16 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF power gain 28 dBm. [1]
+Sep 18 11:45:16 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF frequency 914.1 MHz. [1]
+Sep 18 11:45:16 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set antenna mode 2. [1]
+Sep 18 11:45:16 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set aei station num 1. [1]
+Sep 18 11:45:16 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device ip 192.168.7.115. [1]
+Sep 18 11:45:16 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device netmask 255.255.255.0. [1]
+Sep 18 11:45:16 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device gateway 192.168.7.1. [1]
+Sep 18 11:45:16 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set manager ip 192.168.7.255. [1]
+Sep 18 11:45:16 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set cps ip 192.168.7.255. [1]
+Sep 18 13:04:40 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 13:04:42 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 13:04:43 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Sep 18 13:04:45 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 13:04:50 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 13:04:51 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 13:04:54 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 13:04:58 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 13:04:59 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 13:05:02 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 13:05:03 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 13:05:06 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 13:05:07 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 13:05:10 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 13:05:11 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 13:05:14 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 13:05:14 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 13:05:17 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 13:05:17 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 13:05:19 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 13:05:20 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 13:09:02 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 13:09:04 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 13:09:06 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Sep 18 13:09:07 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 13:09:12 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 13:09:16 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 13:09:20 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 13:09:24 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 13:09:28 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 13:09:29 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 13:09:32 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 13:09:33 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 13:09:36 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 13:09:37 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 13:09:39 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 13:09:42 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 13:09:43 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 13:10:49 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 13:10:50 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 13:10:52 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Sep 18 13:22:31 InvRaildpt local0.warn Train: CPS Client 192.168.7.73 : 22583 - connected.
+Sep 18 13:21:09 InvRaildpt local0.warn Train: Client 192.168.7.73 : 22583 - disconnected.
+Sep 18 13:21:12 InvRaildpt local0.warn Train: CPS Client 192.168.7.73 : 22589 - connected.
+Sep 18 13:21:16 InvRaildpt local0.warn Train: Client 192.168.7.73 : 22589 - disconnected.
+Sep 18 13:21:18 InvRaildpt local0.warn Train: CPS Client 192.168.7.73 : 22591 - connected.
+Sep 18 13:21:21 InvRaildpt local0.warn Train: Client 192.168.7.73 : 22591 - disconnected.
+Sep 18 13:21:24 InvRaildpt local0.warn Train: CPS Client 192.168.7.73 : 22592 - connected.
+Sep 18 13:21:28 InvRaildpt local0.warn Train: Client 192.168.7.73 : 22592 - disconnected.
+Sep 18 13:21:37 InvRaildpt local0.warn Train: Client Manager 127.0.0.1 : 39744 - connected.
+Sep 18 13:21:38 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Sep 18 13:21:38 InvRaildpt local0.warn Train: Client 127.0.0.1 : 39744 - disconnected.
+Sep 18 13:22:07 InvRaildpt local0.warn Train: CPS Client 192.168.7.73 : 22596 - connected.
+Sep 18 13:22:11 InvRaildpt local0.warn Train: Client 192.168.7.73 : 22596 - disconnected.
+Sep 18 13:24:08 InvRaildpt local0.warn Train: CPS Client 192.168.7.73 : 22626 - connected.
+Sep 18 13:48:49 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 13:53:52 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 13:53:53 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 13:53:55 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Sep 18 13:53:56 InvRaildpt local0.warn Train: CPS Client 192.168.7.73 : 22910 - connected.
+Sep 18 13:55:18 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF power gain 28 dBm. [1]
+Sep 18 13:55:19 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF frequency 914.1 MHz. [1]
+Sep 18 13:55:19 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set antenna mode 0. [1]
+Sep 18 13:55:19 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set aei station num 1. [1]
+Sep 18 13:55:19 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device ip 192.168.7.23. [1]
+Sep 18 13:55:19 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device netmask 255.255.255.0. [1]
+Sep 18 13:55:19 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device gateway 192.168.7.1. [1]
+Sep 18 13:55:19 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set manager ip 192.168.7.255. [1]
+Sep 18 13:55:19 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set cps ip 192.168.7.255. [1]
+Sep 18 13:55:48 InvRaildpt local0.warn Train: Client 192.168.7.73 : 22910 - disconnected.
+Sep 18 14:11:24 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 14:11:25 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 14:11:27 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Sep 18 14:18:04 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF power gain 28 dBm. [1]
+Sep 18 14:18:04 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF frequency 914.1 MHz. [1]
+Sep 18 14:18:04 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set antenna mode 0. [1]
+Sep 18 14:18:04 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set aei station num 1. [1]
+Sep 18 14:18:04 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device ip 192.168.7.115. [1]
+Sep 18 14:18:04 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device netmask 255.255.255.0. [1]
+Sep 18 14:18:04 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device gateway 192.168.7.1. [1]
+Sep 18 14:18:04 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set manager ip 192.168.7.255. [1]
+Sep 18 14:18:04 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set cps ip 192.168.7.255. [1]
+Sep 18 14:18:14 InvRaildpt local0.warn Train: CPS Client 192.168.7.73 : 24343 - connected.
+Sep 18 14:18:21 InvRaildpt local0.warn Train: Client 192.168.7.73 : 24343 - disconnected.
+Sep 18 14:37:31 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 18 14:37:32 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 18 14:37:34 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Sep 18 15:32:04 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 10:30:36 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 10:33:17 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 10:46:40 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 11:00:53 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 11:04:38 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 11:06:07 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 11:06:31 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 11:07:25 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 11:08:24 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 11:10:45 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 11:11:45 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 11:19:08 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 11:19:08 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 11:19:09 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Sep 19 11:23:04 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 11:23:04 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 11:23:05 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Sep 19 11:24:03 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 11:24:03 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 11:24:04 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Sep 19 11:25:47 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 11:25:47 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 11:26:04 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 11:26:04 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 11:26:05 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Sep 19 11:27:05 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 11:27:05 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+                                                                                                                                                                                                                                       Sep 19 11:29:32 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 11:29:33 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 11:29:35 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Sep 19 11:30:48 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF power gain 28 dBm. [255]
+Sep 19 11:30:48 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF frequency 910.1 MHz. [255]
+Sep 19 11:30:48 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set antenna mode 0. [255]
+Sep 19 11:30:48 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set aei station num 1. [255]
+Sep 19 11:30:48 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device ip 192.168.7.81. [255]
+Sep 19 11:30:48 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device netmask 255.255.255.0. [255]
+Sep 19 11:30:48 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device gateway 192.168.7.1. [255]
+Sep 19 11:30:48 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set manager ip 192.168.7.255. [255]
+Sep 19 11:30:48 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set cps ip 192.168.7.255. [255]
+Sep 19 11:39:08 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 11:39:09 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 11:39:25 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 11:39:25 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 11:39:27 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Sep 19 11:42:33 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 11:42:34 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 11:42:35 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Sep 19 11:43:23 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF power gain 28 dBm. [1]
+Sep 19 11:43:23 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF frequency 914.1 MHz. [1]
+Sep 19 11:43:23 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set antenna mode 0. [1]
+Sep 19 11:43:23 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set aei station num 1. [1]
+Sep 19 11:43:23 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device ip 192.168.7.115. [1]
+Sep 19 11:43:23 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device netmask 255.255.255.0. [1]
+Sep 19 11:43:23 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device gateway 192.168.7.1. [1]
+Sep 19 11:43:23 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set manager ip 192.168.7.255. [1]
+Sep 19 11:43:23 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set cps ip 192.168.7.255. [1]
+Sep 19 13:13:36 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 13:13:36 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 13:13:38 InvRaildpt local0.warn Train: Poor/Error connection between AEI and antenna
+Sep 19 13:15:16 InvRaildpt local0.warn Train: RF power on.
+Sep 19 13:15:17 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 13:16:17 InvRaildpt local0.warn Train: RF power off.
+Sep 19 13:16:17 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 13:27:26 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 13:27:26 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 13:27:27 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 13:27:33 InvRaildpt local0.warn Train: RF power on.
+Sep 19 13:27:34 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 13:28:12 InvRaildpt local0.warn Train: RF power off.
+Sep 19 13:28:12 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 13:29:24 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 13:29:24 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 13:29:25 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 13:29:29 InvRaildpt local0.warn Train: RF power on.
+Sep 19 13:29:30 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 13:30:09 InvRaildpt local0.warn Train: RF power off.
+Sep 19 13:30:10 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 13:33:14 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 13:33:15 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 13:33:16 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 13:33:20 InvRaildpt local0.warn Train: RF power on.
+Sep 19 13:33:21 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 13:34:01 InvRaildpt local0.warn Train: RF power off.
+Sep 19 13:34:01 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 14:11:19 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 14:11:19 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 14:11:20 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 14:12:03 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 14:12:03 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 14:12:04 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 14:12:36 InvRaildpt local0.warn Train: Web Client 192.168.7.134 : set RF power gain 28 dBm. [1]
+Sep 19 14:12:36 InvRaildpt local0.warn Train: Web Client 192.168.7.134 : set RF frequency 914.1 MHz. [1]
+Sep 19 14:12:36 InvRaildpt local0.warn Train: Web Client 192.168.7.134 : set antenna mode 0. [1]
+Sep 19 14:12:36 InvRaildpt local0.warn Train: Web Client 192.168.7.134 : set aei station num 1. [1]
+Sep 19 14:12:36 InvRaildpt local0.warn Train: Web Client 192.168.7.134 : set device ip 192.168.7.23. [1]
+Sep 19 14:12:36 InvRaildpt local0.warn Train: Web Client 192.168.7.134 : set device netmask 255.255.255.0. [1]
+Sep 19 14:12:36 InvRaildpt local0.warn Train: Web Client 192.168.7.134 : set device gateway 192.168.7.1. [1]
+Sep 19 14:12:36 InvRaildpt local0.warn Train: Web Client 192.168.7.134 : set manager ip 192.168.7.255. [1]
+Sep 19 14:12:36 InvRaildpt local0.warn Train: Web Client 192.168.7.134 : set cps ip 192.168.7.255. [1]
+Sep 19 14:19:48 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 14:19:49 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 14:19:50 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 14:30:34 InvRaildpt local0.warn Train: Client Manager 127.0.0.1 : 55164 - connected.
+Sep 19 14:30:44 InvRaildpt local0.warn Train: Client 127.0.0.1 : 55164 - disconnected.
+Sep 19 14:32:59 InvRaildpt local0.warn Train: Client Manager 127.0.0.1 : 55167 - connected.
+Sep 19 14:33:04 InvRaildpt local0.warn Train: Client 127.0.0.1 : 55167 - disconnected.
+Sep 19 14:36:17 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 14:36:17 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 14:41:10 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 14:41:10 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 14:41:12 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 14:43:13 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 14:43:14 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 14:43:15 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 14:44:22 InvRaildpt local0.warn Train: RF power on.
+Sep 19 14:44:23 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 15:01:08 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 15:01:09 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 15:01:10 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 15:01:13 InvRaildpt local0.warn Train: RF power on.
+Sep 19 15:01:14 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 15:01:53 InvRaildpt local0.warn Train: RF power off.
+Sep 19 15:01:53 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 15:06:05 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 15:06:05 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 15:06:06 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 15:06:11 InvRaildpt local0.warn Train: RF power on.
+Sep 19 15:06:12 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 15:06:51 InvRaildpt local0.warn Train: RF power off.
+Sep 19 15:06:51 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 15:13:06 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 15:13:07 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 15:13:08 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 15:13:17 InvRaildpt local0.warn Train: RF power on.
+Sep 19 15:13:18 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 15:13:57 InvRaildpt local0.warn Train: RF power off.
+Sep 19 15:13:58 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 15:14:55 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 15:14:55 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 15:14:56 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 15:14:59 InvRaildpt local0.warn Train: RF power on.
+Sep 19 15:15:00 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 15:15:39 InvRaildpt local0.warn Train: RF power off.
+Sep 19 15:15:40 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 15:17:35 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 15:17:35 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 15:17:37 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 15:17:44 InvRaildpt local0.warn Train: RF power on.
+Sep 19 15:17:45 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 15:18:18 InvRaildpt local0.warn Train: RF power off.
+Sep 19 15:18:18 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 15:23:22 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 15:23:22 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 15:23:23 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 15:23:26 InvRaildpt local0.warn Train: RF power on.
+Sep 19 15:23:27 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 15:23:59 InvRaildpt local0.warn Train: RF power off.
+Sep 19 15:23:59 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 15:29:36 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 15:29:36 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 15:29:38 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 15:29:40 InvRaildpt local0.warn Train: RF power on.
+Sep 19 15:29:41 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 15:30:14 InvRaildpt local0.warn Train: RF power off.
+Sep 19 15:30:14 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 15:47:23 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 15:47:23 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 15:47:24 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 15:47:26 InvRaildpt local0.warn Train: RF power on.
+Sep 19 15:47:27 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 15:47:59 InvRaildpt local0.warn Train: RF power off.
+Sep 19 15:48:00 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 15:53:23 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 15:53:23 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 15:53:24 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 15:53:27 InvRaildpt local0.warn Train: RF power on.
+Sep 19 15:53:28 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 15:54:01 InvRaildpt local0.warn Train: RF power off.
+Sep 19 15:54:01 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 15:57:12 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 15:57:13 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 15:57:14 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 15:57:16 InvRaildpt local0.warn Train: RF power on.
+Sep 19 15:57:17 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 15:57:50 InvRaildpt local0.warn Train: RF power off.
+Sep 19 15:57:50 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 16:01:10 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 16:01:10 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 16:01:11 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 16:01:15 InvRaildpt local0.warn Train: RF power on.
+Sep 19 16:01:16 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 16:01:48 InvRaildpt local0.warn Train: RF power off.
+Sep 19 16:01:48 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 16:03:21 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 16:03:21 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 16:03:22 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 16:03:24 InvRaildpt local0.warn Train: RF power on.
+Sep 19 16:03:25 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 16:03:57 InvRaildpt local0.warn Train: RF power off.
+Sep 19 16:03:57 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 16:10:30 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 16:10:30 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 16:10:31 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 16:10:38 InvRaildpt local0.warn Train: RF power on.
+Sep 19 16:10:39 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 16:11:12 InvRaildpt local0.warn Train: RF power off.
+Sep 19 16:11:12 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 16:13:19 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 16:13:19 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 16:13:20 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 16:13:24 InvRaildpt local0.warn Train: RF power on.
+Sep 19 16:13:25 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 16:13:58 InvRaildpt local0.warn Train: RF power off.
+Sep 19 16:13:58 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 16:29:05 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 16:29:05 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 16:29:06 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 16:29:11 InvRaildpt local0.warn Train: RF power on.
+Sep 19 16:29:12 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 16:29:44 InvRaildpt local0.warn Train: RF power off.
+Sep 19 16:29:44 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 16:32:05 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 16:32:05 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 16:32:06 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 16:32:08 InvRaildpt local0.warn Train: RF power on.
+Sep 19 16:32:09 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 16:32:41 InvRaildpt local0.warn Train: RF power off.
+Sep 19 16:32:41 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 16:33:34 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 16:33:34 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 16:33:35 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 16:33:36 InvRaildpt local0.warn Train: RF power on.
+Sep 19 16:33:37 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 16:34:10 InvRaildpt local0.warn Train: RF power off.
+Sep 19 16:34:10 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 16:34:57 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 16:34:58 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 16:34:59 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 16:35:00 InvRaildpt local0.warn Train: RF power on.
+Sep 19 16:35:01 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 16:35:34 InvRaildpt local0.warn Train: RF power off.
+Sep 19 16:35:34 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 16:36:18 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 16:36:19 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 16:36:20 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 16:36:20 InvRaildpt local0.warn Train: RF power on.
+Sep 19 16:36:21 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 16:36:54 InvRaildpt local0.warn Train: RF power off.
+Sep 19 16:36:54 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 16:38:01 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 16:38:01 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 16:38:02 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 16:38:03 InvRaildpt local0.warn Train: RF power on.
+Sep 19 16:38:04 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 16:38:37 InvRaildpt local0.warn Train: RF power off.
+Sep 19 16:38:37 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 16:40:16 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 16:40:17 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 16:40:18 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 16:40:22 InvRaildpt local0.warn Train: RF power on.
+Sep 19 16:40:23 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 16:40:56 InvRaildpt local0.warn Train: RF power off.
+Sep 19 16:40:56 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 16:46:22 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 16:46:22 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 16:46:23 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 16:46:24 InvRaildpt local0.warn Train: RF power on.
+Sep 19 16:46:25 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 16:46:58 InvRaildpt local0.warn Train: RF power off.
+Sep 19 16:46:58 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 17:00:36 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 17:00:37 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 17:00:38 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 17:00:39 InvRaildpt local0.warn Train: RF power on.
+Sep 19 17:00:40 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 17:01:13 InvRaildpt local0.warn Train: RF power off.
+Sep 19 17:01:13 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 17:01:56 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 17:01:56 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 17:01:57 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 17:02:00 InvRaildpt local0.warn Train: RF power on.
+Sep 19 17:02:01 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 17:02:33 InvRaildpt local0.warn Train: RF power off.
+Sep 19 17:02:33 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 17:05:09 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 17:05:10 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 17:05:11 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 17:05:13 InvRaildpt local0.warn Train: RF power on.
+Sep 19 17:05:14 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 17:05:47 InvRaildpt local0.warn Train: RF power off.
+Sep 19 17:05:47 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 17:06:23 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 17:06:24 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 17:06:25 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 17:06:27 InvRaildpt local0.warn Train: RF power on.
+Sep 19 17:06:28 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 17:07:01 InvRaildpt local0.warn Train: RF power off.
+Sep 19 17:07:01 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 17:11:14 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 17:11:14 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 17:11:15 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 17:11:17 InvRaildpt local0.warn Train: RF power on.
+Sep 19 17:11:18 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 17:11:50 InvRaildpt local0.warn Train: RF power off.
+Sep 19 17:11:51 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 17:20:41 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 17:20:41 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 17:20:42 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 17:20:48 InvRaildpt local0.warn Train: RF power on.
+Sep 19 17:20:49 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 17:21:22 InvRaildpt local0.warn Train: RF power off.
+Sep 19 17:21:22 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 17:31:42 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 17:31:42 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 17:31:43 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 17:31:44 InvRaildpt local0.warn Train: RF power on.
+Sep 19 17:31:45 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 17:32:18 InvRaildpt local0.warn Train: RF power off.
+Sep 19 17:32:19 InvRaildpt local0.warn Train: Generate cps data.
+Sep 19 17:40:03 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 19 17:40:03 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 19 17:40:04 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 17:40:06 InvRaildpt local0.warn Train: RF power on.
+Sep 19 17:40:07 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 19 17:40:39 InvRaildpt local0.warn Train: RF power off.
+Sep 19 17:40:40 InvRaildpt local0.warn Train: Generate cps data.
+                                                                                                                                                 Sep 20 08:44:36 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 20 08:44:37 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 20 08:44:39 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 20 08:47:44 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 20 08:47:45 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 20 08:47:47 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 20 08:50:24 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 20 08:50:25 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 20 08:50:27 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 20 08:52:23 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 20 08:52:24 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 20 08:52:26 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 20 08:53:18 InvRaildpt local0.warn Train: Client Manager 192.168.7.73 : 17440 - connected.
+Sep 20 08:53:42 InvRaildpt local0.warn Train: Client Manager 192.168.7.73 : 17440 - set RF power gain 28 dBm. [255]
+Sep 20 08:53:43 InvRaildpt local0.warn Train: Client Manager 192.168.7.73 : 17440 - set RF frequency 910.1 MHz. [255]
+Sep 20 08:53:45 InvRaildpt local0.warn Train: Client Manager 192.168.7.73 : 17440 - set RF power gain 28 dBm. [255]
+Sep 20 08:53:46 InvRaildpt local0.warn Train: Client Manager 192.168.7.73 : 17440 - set RF frequency 910.1 MHz. [255]
+Sep 20 08:54:28 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 20 08:54:29 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 20 08:54:30 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 20 09:04:08 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 20 09:04:09 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 20 09:04:11 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 20 09:05:39 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 20 09:05:40 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 20 09:05:42 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 20 09:06:49 InvRaildpt local0.warn Train: RF power on.
+Sep 20 09:06:50 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 20 09:07:23 InvRaildpt local0.warn Train: RF power off.
+Sep 20 09:07:23 InvRaildpt local0.warn Train: Generate cps data.
+Sep 20 09:09:21 InvRaildpt local0.warn Train: RF power on.
+Sep 20 09:09:22 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 20 09:09:54 InvRaildpt local0.warn Train: RF power off.
+Sep 20 09:09:54 InvRaildpt local0.warn Train: Generate cps data.
+Sep 20 09:10:12 InvRaildpt local0.warn Train: RF power on.
+Sep 20 09:10:13 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 20 09:10:45 InvRaildpt local0.warn Train: RF power off.
+Sep 20 09:10:45 InvRaildpt local0.warn Train: Generate cps data.
+Sep 20 09:14:35 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 20 09:14:36 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 20 09:14:58 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 20 09:14:58 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 20 09:14:59 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 20 09:15:02 InvRaildpt local0.warn Train: RF power on.
+Sep 20 09:15:03 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 20 09:15:36 InvRaildpt local0.warn Train: RF power off.
+Sep 20 09:15:36 InvRaildpt local0.warn Train: Generate cps data.
+Sep 20 09:25:37 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 20 09:25:37 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 20 09:25:38 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 20 09:27:24 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 20 09:27:25 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 20 09:30:08 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 20 09:30:09 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 20 09:30:11 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 20 09:45:37 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 20 09:45:39 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 20 09:46:10 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 20 09:46:10 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 20 09:46:11 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 20 09:48:54 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF power gain 28 dBm. [1]
+Sep 20 09:48:54 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF frequency 914.1 MHz. [1]
+Sep 20 09:48:54 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set antenna mode 0. [1]
+Sep 20 09:48:54 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set aei station num 1. [1]
+Sep 20 09:48:54 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device ip 192.168.7.115. [1]
+Sep 20 09:48:54 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device netmask 255.255.255.0. [1]
+Sep 20 09:48:54 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device gateway 192.168.7.1. [1]
+Sep 20 09:48:54 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set manager ip 192.168.7.255. [1]
+Sep 20 09:48:54 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set cps ip 192.168.7.255. [1]
+Sep 20 10:20:30 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 20 10:20:31 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 20 10:20:32 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 20 11:01:45 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 20 11:01:45 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 20 11:01:47 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 20 11:07:32 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF power gain 28 dBm. [1]
+Sep 20 11:07:32 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF frequency 914.1 MHz. [1]
+Sep 20 11:07:32 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set antenna mode 0. [1]
+Sep 20 11:07:32 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set aei station num 1. [1]
+Sep 20 11:07:32 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device ip 192.168.7.115. [1]
+Sep 20 11:07:32 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device netmask 255.255.255.0. [1]
+Sep 20 11:07:32 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device gateway 192.168.7.1. [1]
+Sep 20 11:07:32 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set manager ip 192.168.7.255. [1]
+Sep 20 11:07:32 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set cps ip 192.168.7.255. [1]
+Sep 20 11:07:44 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF power gain 28 dBm. [1]
+Sep 20 11:07:44 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF frequency 914.1 MHz. [1]
+Sep 20 11:07:44 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set antenna mode 0. [1]
+Sep 20 11:07:44 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set aei station num 1. [1]
+Sep 20 11:07:44 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device ip 192.168.7.115. [1]
+Sep 20 11:07:44 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device netmask 255.255.255.0. [1]
+Sep 20 11:07:45 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device gateway 192.168.7.1. [1]
+Sep 20 11:07:45 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set manager ip 192.168.7.255. [1]
+Sep 20 11:07:45 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set cps ip 192.168.7.255. [1]
+Sep 20 11:08:23 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF power gain 28 dBm. [1]
+Sep 20 11:08:23 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set RF frequency 914.1 MHz. [1]
+Sep 20 11:08:23 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set antenna mode 0. [1]
+Sep 20 11:08:23 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set aei station num 1. [1]
+Sep 20 11:08:23 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device ip 192.168.7.115. [1]
+Sep 20 11:08:23 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device netmask 255.255.255.0. [1]
+Sep 20 11:08:23 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set device gateway 192.168.7.1. [1]
+Sep 20 11:08:23 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set manager ip 192.168.7.255. [1]
+Sep 20 11:08:23 InvRaildpt local0.warn Train: Web Client 192.168.7.73 : set cps ip 192.168.7.255. [1]
+Sep 20 11:35:10 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 20 11:35:11 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 20 11:35:36 InvRaildpt local0.warn Train: XC-8_App 0.2.40 Started 
+Sep 20 11:35:36 InvRaildpt local0.warn Train: AlgoRt Version 0.0.35
+Sep 20 11:35:37 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 20 11:37:15 InvRaildpt local0.warn Train: RF power on.
+Sep 20 11:37:16 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 20 11:37:49 InvRaildpt local0.warn Train: RF power off.
+Sep 20 11:37:49 InvRaildpt local0.warn Train: Generate cps data.
+Sep 20 11:38:28 InvRaildpt local0.warn Train: RF power on.
+Sep 20 11:38:29 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 20 11:39:02 InvRaildpt local0.warn Train: RF power off.
+Sep 20 11:39:03 InvRaildpt local0.warn Train: Generate cps data.
+Sep 20 11:39:36 InvRaildpt local0.warn Train: RF power on.
+Sep 20 11:39:37 InvRaildpt local0.warn Train: Good connection between AEI and antenna
+Sep 20 11:40:09 InvRaildpt local0.warn Train: RF power off.
+Sep 20 11:40:10 InvRaildpt local0.warn Train: Generate cps data.
